@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CA: TSN 1 HD">
+    <display-name lang="en">CA: TSN 1 HD</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <programme start="20220904000000 -0400" stop="20220904010000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">SC With Jay and Dan</title>
+  </programme>
+  <programme start="20220904010000 -0400" stop="20220904020000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904020000 -0400" stop="20220904030000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904030000 -0400" stop="20220904033000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904033000 -0400" stop="20220904043000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904043000 -0400" stop="20220904053000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904053000 -0400" stop="20220904063000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904063000 -0400" stop="20220904073000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904073000 -0400" stop="20220904083000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904083000 -0400" stop="20220904093000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904093000 -0400" stop="20220904103000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904103000 -0400" stop="20220904113000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904113000 -0400" stop="20220904123000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">Sportscentre</title>
+  </programme>
+  <programme start="20220904123000 -0400" stop="20220904130000 -0400" channel="CA: TSN 1 HD">
+    <title lang="en">L'avant-match de la LCF</title>
+  </programme>
+</tv>
