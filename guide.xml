@@ -4,6 +4,10 @@
     <display-name lang="en">CA: TSN 1 HD</display-name>
     <url>http://www.tvhebdo.com</url>
   </channel>
+  <channel id="CRV1H">
+    <display-name lang="en">CA: Crave 1</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
   <programme start="20220904000000 -0400" stop="20220904010000 -0400" channel="CA: TSN 1 HD">
     <title lang="en">SC With Jay and Dan</title>
   </programme>
@@ -45,5 +49,53 @@
   </programme>
   <programme start="20220904123000 -0400" stop="20220904130000 -0400" channel="CA: TSN 1 HD">
     <title lang="en">L'avant-match de la LCF</title>
+  </programme>
+  <programme start="20220904000000 -0400" stop="20220904010000 -0400" channel="CRV1H">
+    <title lang="en">City on a Hill (v.f.)</title>
+  </programme>
+  <programme start="20220904010000 -0400" stop="20220904013000 -0400" channel="CRV1H">
+    <title lang="en">Pillow Talk</title>
+  </programme>
+  <programme start="20220904013000 -0400" stop="20220904020000 -0400" channel="CRV1H">
+    <title lang="en">Pillow Talk</title>
+  </programme>
+  <programme start="20220904020000 -0400" stop="20220904023000 -0400" channel="CRV1H">
+    <title lang="en">New Eden</title>
+  </programme>
+  <programme start="20220904023000 -0400" stop="20220904031000 -0400" channel="CRV1H">
+    <title lang="en">New Eden</title>
+  </programme>
+  <programme start="20220904031000 -0400" stop="20220904040500 -0400" channel="CRV1H">
+    <title lang="en">Sortez-moi de moi</title>
+  </programme>
+  <programme start="20220904040500 -0400" stop="20220904045500 -0400" channel="CRV1H">
+    <title lang="en">Sortez-moi de moi</title>
+  </programme>
+  <programme start="20220904045500 -0400" stop="20220904052500 -0400" channel="CRV1H">
+    <title lang="en">We're All Gonna Die (Even Jay Baruchel)</title>
+  </programme>
+  <programme start="20220904052500 -0400" stop="20220904055500 -0400" channel="CRV1H">
+    <title lang="en">We're All Gonna Die (Even Jay Baruchel)</title>
+  </programme>
+  <programme start="20220904055500 -0400" stop="20220904074000 -0400" channel="CRV1H">
+    <title lang="en">Bizarre</title>
+  </programme>
+  <programme start="20220904074000 -0400" stop="20220904080000 -0400" channel="CRV1H">
+    <title lang="en">Whale</title>
+  </programme>
+  <programme start="20220904080000 -0400" stop="20220904085000 -0400" channel="CRV1H">
+    <title lang="en">Republic of Doyle</title>
+  </programme>
+  <programme start="20220904085000 -0400" stop="20220904102000 -0400" channel="CRV1H">
+    <title lang="en">You Are Here: A Come From Away Story</title>
+  </programme>
+  <programme start="20220904102000 -0400" stop="20220904114000 -0400" channel="CRV1H">
+    <title lang="en">I.mmortalité A.rtificielle</title>
+  </programme>
+  <programme start="20220904114000 -0400" stop="20220904125500 -0400" channel="CRV1H">
+    <title lang="en">The Holy Game</title>
+  </programme>
+  <programme start="20220904125500 -0400" stop="20220904143000 -0400" channel="CRV1H">
+    <title lang="en">Spell (v.f.)</title>
   </programme>
 </tv>
